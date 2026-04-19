@@ -1,0 +1,10 @@
+Total Spend: 513226
+
+Category-wise Spend:
+Category
+Bills             90919
+Entertainment     72967
+Food             120672
+Shopping         131636
+Travel            97032
+Name: Amount, dtype: int64
